@@ -19,4 +19,4 @@ I work in English, French and Chinese.
 
 ### Work with me
 
-📧 hello@yansquared.com
+📧 hello@yansquared.com · 🛒 [Hire me on Fiverr](https://www.fiverr.com/yansquared)
