@@ -16,6 +16,7 @@ I work in English, French and Chinese.
 | [Doc2Sheet](https://github.com/helloyansquared/doc2sheet) | Invoices & receipts → validated spreadsheet rows (vision LLM) | [HF Space](https://huggingface.co/spaces/helloyansquared/doc2sheet) |
 | [StatementDesk](https://github.com/helloyansquared/statementdesk) | Bank statements → Excel / Xero / QuickBooks, balance-checked | — |
 | [Inquiry Desk](https://github.com/helloyansquared/inquiry-desk-n8n-ai-automation) | Customer inquiries → structured leads + reply drafts (n8n + local LLM) | [HF Space](https://huggingface.co/spaces/helloyansquared/inquiry-desk) |
+| [A/B Test Report](https://github.com/helloyansquared/ab-test-report) | A/B test → clear ship/no-ship decision: trust checks, segments, revenue, novelty effects | [report](https://helloyansquared.github.io/ab-test-report/) |
 
 ### Work with me
 
